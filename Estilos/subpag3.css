@@ -1,0 +1,61 @@
+  h1{
+                background: rgba( 122, 92, 60   ,0.8);
+                 text-align: center;
+                 font-size: 40pt;
+                 padding: 5px;
+                 color: white;
+                font-family: Colonna MT ;
+                /*box-shadow: black 3px 3px 2px;*/
+                
+                text-shadow: 5px 5px 5px #9E6730,5px 5px 5px #B08E6B , 3px 3px 3px #E8C39E;
+                
+                }
+                body{
+    
+background:url('../imagenes/prv.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+}
+            p{
+    width: 500px;
+    background: rgba(170, 116, 68, 0.6);
+    border-radius: 2%;
+    color: white;
+    padding: 10px;
+    box-shadow: white 5px 5px 2px;
+    font-size: large;
+    
+    
+}
+.it{
+                 text-decoration: none;
+                 color: sienna;
+                 font-size: 15pt;
+                 margin: 5px;
+                 font-weight: bold;
+                 background: rgba(255,255,255,0.8);
+                 padding:10px;
+                 border-radius: 20px;
+                 font-family: Colonna MT;
+               float: right;
+             }
+             .it:hover{
+                 background: rgba(203, 160, 117 ,0.7);
+             }
+              .itemmenu{
+                 text-decoration: none;
+                 color: chocolate;
+                 font-size: 20pt;
+                 margin: 5px;
+                 font-weight: bold;
+                 background: rgba(255,255,255,0.8);
+                 padding:10px;
+                 border-radius: 20px;
+                 font-family: Colonna MT;
+                
+             }
+             .itemmenu:hover{
+                 background: rgba(203, 160, 117, 0.7);
+             }

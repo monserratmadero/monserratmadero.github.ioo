@@ -1,0 +1,61 @@
+  h1{
+                background: rgba( 179, 69, 141 ,0.8);
+                 text-align: center;
+                 font-size: 40pt;
+                 padding: 5px;
+                 color: white;
+                font-family: Colonna MT ;
+                /*box-shadow: black 3px 3px 2px;*/
+                
+                text-shadow: 5px 5px 5px #F57BAF,5px 5px 5px #F57BE1, 3px 3px 3px #7BF5E1 ;
+                
+                }
+                body{
+    
+background:url('../imagenes/pru.jpeg');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+}
+            p{
+    width: 500px;
+    background: rgba(234, 111, 221, 0.6);
+    border-radius: 2%;
+    color: white;
+    padding: 10px;
+    box-shadow: white 5px 5px 2px;
+    font-size: large;
+    
+    
+}
+.it{
+                 text-decoration: none;
+                 color: darkviolet;
+                 font-size: 15pt;
+                 margin: 5px;
+                 font-weight: bold;
+                 background: rgba(255,255,255,0.8);
+                 padding:10px;
+                 border-radius: 20px;
+                 font-family: Colonna MT;
+               float: right;
+             }
+             .it:hover{
+                 background: rgba(187, 143, 206, 0.7);
+             }
+ .itemmenu{
+                 text-decoration: none;
+                 color: darksalmon;
+                 font-size: 20pt;
+                 margin: 5px;
+                 font-weight: bold;
+                 background: rgba(255,255,255,0.8);
+                 padding:10px;
+                 border-radius: 20px;
+                 font-family: Colonna MT;
+                
+             }
+             .itemmenu:hover{
+                 background: rgba(237, 186, 209 , 0.7);
+             }

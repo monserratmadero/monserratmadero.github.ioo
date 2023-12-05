@@ -1,0 +1,112 @@
+body{
+background:url(../imagenes/i.jpg);
+background-repeat: no-repeat;
+background-position: center top;
+background-attachment: fixed;
+background-size: cover;
+}
+  h1{
+                background: rgba( 159, 159, 159 ,0.8);
+                 text-align: center;
+                 font-size: 40pt;
+                 padding: 5px;
+                 color: white;
+                font-family: Colonna MT ;
+                /*box-shadow: black 3px 3px 2px;*/
+                
+                text-shadow: 5px 5px 5px #000046,5px 5px 5px #000057, 3px 3px 3px #202088 ;
+                
+                }
+          div{
+                text-align: center;
+                width: 100%;
+            }
+            .ad{
+                 
+                float: right;
+                width: 25%;    
+                 color: deeppink;
+                 font-size: 15pt;
+                 margin: 5px;
+                 background: rgba(255,255,255,0.8);
+                 padding:5px;
+                 border-radius: 20px;
+            }
+              .itemmenu{
+                 text-decoration: none;
+                 color: darkblue;
+                 font-size: 20pt;
+                 margin: 5px;
+                 font-weight: bold;
+                 background: rgba(255,255,255,0.8);
+                 padding:10px;
+                 border-radius: 20px;
+                 font-family: Colonna MT;
+                
+             }
+             .itemmenu:hover{
+                 background: rgba(223, 223, 223, 0.7);
+             }
+        
+            .imagenrs{
+                width:  30px;
+                height: 30px;
+            }
+            #imagen{
+                  border-radius: 50%;
+                 opacity: 0.8;
+                 width: 40%;
+                 height: 500px;
+                border: burlywood 2px, solid;
+                box-shadow: black 3px 3px 5px;
+               
+                
+            }
+            
+            .imaicon{
+                width: 30px;
+                height: 30px;border-radius: 50%;
+                padding-top: 5px;
+            }
+            #pie{
+                clear: both;
+                width: 100%;
+                display: fixed;
+                background: rgba(66, 68, 189, 0.8);
+            }
+            table{
+                width: 100%;
+            }
+            #cuerpo{
+                height: 415px;
+                display: block;
+                text-align: center;
+                overflow-y:scroll;
+                float: left;
+                width: 75%;
+                color: cornsilk;
+            }
+            .imagendes{
+                width: 25%;
+                height: 200px;
+   
+            }
+            #menu{
+                float: right;
+                width: 25%;    
+            }
+            .tdmenu{
+                padding: 5%;
+                background: white;
+                margin-bottom: 2%;
+                margin-top: 2%;
+                    
+                
+            }
+            b.cuadro{
+               width: 200px;
+               background: white;
+                border-radius: 20px;
+                padding:15px;
+           
+            }

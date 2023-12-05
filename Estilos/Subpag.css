@@ -1,0 +1,77 @@
+  h1{
+                background: rgba(162, 200, 204 , 0.8);
+                 text-align: center;
+                 font-size: 40pt;
+                 padding: 5px;
+                 color: white;
+                font-family: Colonna MT ;
+                /*box-shadow: black 3px 3px 2px;*/
+                
+                text-shadow: 5px 5px 5px #2f2c79;
+                
+                }
+                body{
+    
+background:url('../imagenes/d.jpeg');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+}
+            p{
+    width: 500px;
+    background: rgba(128, 128, 128, 0.6);
+    border-radius: 2%;
+    color: white;
+    padding: 10px;
+    box-shadow: white 5px 5px 2px;
+    font-size: large;
+    
+    
+}
+
+ .itemmenu{
+                 text-decoration: none;
+                 color: darkcyan;
+                 font-size: 20pt;
+                 margin: 5px;
+                 font-weight: bold;
+                 background: rgba(255,255,255,0.8);
+                 padding:10px;
+                 border-radius: 20px;
+                 font-family: Colonna MT;
+                
+             }
+             .itemmenu:hover{
+                 background: rgba(46, 128, 137, 0.7);
+             }
+
+.it{
+                 text-decoration: none;
+                 color: blue;
+                 font-size: 15pt;
+                 margin: 5px;
+                 font-weight: bold;
+                 background: rgba(255,255,255,0.8);
+                 padding:10px;
+                 border-radius: 20px;
+                 font-family: Colonna MT;
+               float: right;
+             }
+             .it:hover{
+                 background: rgba(230, 240, 253,0.7);
+             }
+              .Filtro{
+              -webkit-background-filter:blur(15px);
+             background-filter:blur(15px);
+             background-color:rgba(243, 243, 243, 0.7); 
+}
+#tab{
+    blackground: gray;
+    width: 500px;
+    height: 450px;
+    border-radius: 6px;
+    box-shadow: 0 10px 30px #000;
+    margin: 200px auto;
+    border:1px solid #ffffff40; 
+}
